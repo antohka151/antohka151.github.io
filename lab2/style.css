@@ -1,0 +1,52 @@
+.row{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.container-fluid{
+    margin:0 !important;
+    padding:0 !important;
+}
+
+.bg-image{
+    background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/leaves.png?__cf_chl_tk=KQuNM_dS6sL4DAJAsId2YpC3rtAC396_TAgoUDtyBpw-1684212067-0-gaNycGzNC7s');
+}
+
+.logo{
+    height: 28px;
+}
+
+.forma{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 350px;
+    background-color: rgb(131, 207, 145);
+}
+
+.btn btn-success{
+    margin-top: 15px;
+}
+
+.custom-navbar{
+    background-color: rgb(131, 207, 145);
+}
+
+.nav-link{
+    font-size: 1.1em;
+}
+
+.navbar li{
+    margin-right: 15px;
+}
+
+.nav-item {
+    transition: transform 0.3s ease;
+}
+
+.nav-item:hover {
+    transform: translateY(-3px);
+}
+
